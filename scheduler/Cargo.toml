@@ -1,0 +1,8 @@
+[package]
+name = "completely-fair-scheduler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.25.0"
+tui = "0.19.0"
